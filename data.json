@@ -6,7 +6,8 @@
 				"coordinates": [-122.256970, 37.868686]
 			},
 			"type": "Feature",
-			"properties": {}
+			"properties": {"description": "<strong>Make it Mount Pleasant</strong><p>Make it Mount Pleasant is a handmade and vintage market and afternoon of live entertainment and kids activities. 12:00-6:00 p.m.</p>",
+				      "icon-image": "car-15"}
 		},
 		{
 			"geometry": {
@@ -14,7 +15,8 @@
 				"coordinates": [-122.250789, 37.870962]
 			},
 			"type": "Feature",
-			"properties": {}
+			"properties": {"description": "<strong>Make it Mount Pleasant</strong><p>Make it Mount Pleasant is a handmade and vintage market and afternoon of live entertainment and kids activities. 11:00-3:00 p.m.</p>",
+				      "icon-image": "car-15"}
 		}
 	]
 }
