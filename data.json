@@ -11,7 +11,7 @@
 			},
 			"properties": {
 				"numberofspots": "1",
-				"availability": "7",
+				"availability": "0",
 				"timeavailable": "9AM-5PM",
 				"type": "Driveway",
 				"instructions": "'Enter on the right side of the building.'",
@@ -34,7 +34,7 @@
 			},
 			"properties": {
 				"numberofspots": "1",
-				"availability": "7",
+				"availability": "10",
 				"timeavailable": "2AM-7AM",
 				"type": "Driveway",
 				"instructions": "'Enter slowly, as it is very narrow'",
@@ -80,7 +80,7 @@
 			},
 			"properties": {
 				"numberofspots": "2",
-				"availability": "7",
+				"availability": "5",
 				"timeavailable": "6AM-9AM",
 				"type": "Driveway",
 				"instructions": "'Do a 180 e-brake in reverse.'",
@@ -103,7 +103,7 @@
 			},
 			"properties": {
 				"numberofspots": "4",
-				"availability": "7",
+				"availability": "2",
 				"timeavailable": "1PM-2PM and 3PM-4PM and 5PM-6PM",
 				"type": "Parking Garage",
 				"instructions": "'Watch out for my doggy!'",
@@ -126,7 +126,7 @@
 			},
 			"properties": {
 				"numberofspots": "1",
-				"availability": "7",
+				"availability": "3",
 				"timeavailable": "9AM-5PM",
 				"type": "Driveway",
 				"instructions": "'Hope you like ramps.'",
