@@ -10,8 +10,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "1",
-				"availability": "0",
+				"numberofspots": 1,
+				"availability": 0,
 				"timeavailable": "9AM-5PM",
 				"type": "Driveway",
 				"instructions": "'Enter on the right side of the building.'",
@@ -33,8 +33,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "1",
-				"availability": "10",
+				"numberofspots": 1,
+				"availability": 10,
 				"timeavailable": "2AM-7AM",
 				"type": "Driveway",
 				"instructions": "'Enter slowly, as it is very narrow'",
@@ -56,8 +56,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "3",
-				"availability": "7",
+				"numberofspots": 3,
+				"availability": 7,
 				"timeavailable": "1PM-2PM and 6PM-8PM",
 				"type": "Parking Garage",
 				"instructions": "'Code is 42069.'",
@@ -79,8 +79,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "2",
-				"availability": "5",
+				"numberofspots": 2,
+				"availability": 5,
 				"timeavailable": "6AM-9AM",
 				"type": "Driveway",
 				"instructions": "'Do a 180 e-brake in reverse.'",
@@ -102,8 +102,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "4",
-				"availability": "2",
+				"numberofspots": 4,
+				"availability": 2,
 				"timeavailable": "1PM-2PM and 3PM-4PM and 5PM-6PM",
 				"type": "Parking Garage",
 				"instructions": "'Watch out for my doggy!'",
@@ -125,8 +125,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "1",
-				"availability": "3",
+				"numberofspots": 1,
+				"availability": 3,
 				"timeavailable": "9AM-5PM",
 				"type": "Driveway",
 				"instructions": "'Hope you like ramps.'",
@@ -148,8 +148,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "1",
-				"availability": "7",
+				"numberofspots": 1,
+				"availability": 7,
 				"timeavailable": "2AM-7AM",
 				"type": "Parking Garage",
 				"instructions": "'Leave me a nice note ;)'",
@@ -171,8 +171,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "2",
-				"availability": "7",
+				"numberofspots": 2,
+				"availability": 7,
 				"timeavailable": "1PM-2PM and 6PM-8PM",
 				"type": "Parking Garage",
 				"instructions": "'No special instructions just wanted to say hi :)'",
@@ -194,8 +194,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "5",
-				"availability": "7",
+				"numberofspots": 5,
+				"availability": 4,
 				"timeavailable": "6AM-9AM",
 				"type": "Driveway",
 				"instructions": "'Mow my lawn and feed my cat before you go.'",
@@ -217,8 +217,8 @@
 				]
 			},
 			"properties": {
-				"numberofspots": "3",
-				"availability": "7",
+				"numberofspots": 3,
+				"availability": 9,
 				"timeavailable": "1PM-2PM and 3PM-4PM and 5PM-6PM",
 				"type": "Driveway",
 				"instructions": "'Park backwards only please.'",
