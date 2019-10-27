@@ -6,8 +6,9 @@
 				"coordinates": [-122.256970, 37.868686]
 			},
 			"type": "Feature",
-			"properties": {"description": "<strong>Driveway on Telegraph</strong><p>9:00-5:00pm</p>",
-				      "icon-image": "car-15"}
+			"properties": {"availability": 10,
+				"description": "<strong>Driveway on Telegraph</strong><p>9:00-5:00pm</p>",
+				"icon-image": "car-15"}
 		},
 		{
 			"geometry": {
@@ -15,8 +16,9 @@
 				"coordinates": [-122.250789, 37.870962]
 			},
 			"type": "Feature",
-			"properties": {"description": "<strong>Piedmont Parking Garage</strong><p>11:00-3:00 p.m.</p>",
-				      "icon-image": "car-15"}
+			"properties": {"availability": 0,
+				"description": "<strong>Piedmont Parking Garage</strong><p>11:00-3:00 p.m.</p>",
+				"icon-image": "car-15"}
 		}
 	]
 }
